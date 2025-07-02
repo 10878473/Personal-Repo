@@ -1,5 +1,6 @@
 //Maya 2024 Project Definition
 
-workspace -fr "particles" "particles";
 workspace -fr "templates" "assets";
 workspace -fr "alembicCache" "cache/alembic";
+workspace -fr "particles" "particles";
+workspace -fr "diskCache" "data";
