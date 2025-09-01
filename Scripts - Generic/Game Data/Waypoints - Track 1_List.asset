@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7273311141612216257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_7
+  m_EditorClassIdentifier: 
+  value: {x: 831.7622, y: 85.15228, z: -438.51086}
+--- !u!114 &-5806412532827165648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_5
+  m_EditorClassIdentifier: 
+  value: {x: 1865.7622, y: 21.683277, z: -732.51086}
+--- !u!114 &-5049513305643169906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_4
+  m_EditorClassIdentifier: 
+  value: {x: 2815.7622, y: 21.709278, z: -1212.5109}
+--- !u!114 &-4262950017053273119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_10
+  m_EditorClassIdentifier: 
+  value: {x: -1152.2378, y: 85.15228, z: 702.48914}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b0628d1075ac1a44b6183dec8f5e7d9, type: 3}
+  m_Name: Waypoints - Track 1_List
+  m_EditorClassIdentifier: 
+  Vector3Dlist:
+  - {fileID: 2526355003276937805}
+  - {fileID: 4664996388801371730}
+  - {fileID: 1488346117973346644}
+  - {fileID: -5049513305643169906}
+  - {fileID: -5806412532827165648}
+  - {fileID: 6422959863885972238}
+  - {fileID: -7273311141612216257}
+  - {fileID: 9103914349127822376}
+  - {fileID: 3530388032748715752}
+  - {fileID: -4262950017053273119}
+--- !u!114 &1488346117973346644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_3
+  m_EditorClassIdentifier: 
+  value: {x: 3183.7622, y: 53.15228, z: -710.51086}
+--- !u!114 &2526355003276937805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_1
+  m_EditorClassIdentifier: 
+  value: {x: 4431.762, y: 20.752277, z: 260.58914}
+--- !u!114 &3530388032748715752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_9
+  m_EditorClassIdentifier: 
+  value: {x: -431.2378, y: 85.15228, z: 208.48914}
+--- !u!114 &4664996388801371730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_2
+  m_EditorClassIdentifier: 
+  value: {x: 3236.7622, y: 143.15228, z: 255.48914}
+--- !u!114 &6422959863885972238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_6
+  m_EditorClassIdentifier: 
+  value: {x: 1412.7622, y: 85.15228, z: -369.51086}
+--- !u!114 &9103914349127822376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad249000432c245a921db9ed670aac, type: 3}
+  m_Name: Waypoints - Track 1_8
+  m_EditorClassIdentifier: 
+  value: {x: 342.7622, y: 85.15228, z: 335.48914}
